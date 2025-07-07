@@ -19,7 +19,7 @@
 ---
 
 ### 🧠 Currently Learning
-- **C Programming**
+- **Full Stack developer**
 
 ### 📫 Reach Me At
 - **Email**: kushp184@gmail.com  
